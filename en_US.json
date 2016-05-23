@@ -19,7 +19,7 @@
       "PASConditions" : [{
         "AttributeName" : "CLUS",
         "AttributeValue" : "24401",
-        "substring" : false,
+        "substring" : false
       },
       {
         "AttributeName" : "SPUS",
