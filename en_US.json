@@ -24,8 +24,7 @@
       {
         "AttributeName" : "SPUS",
         "AttributeValue" : "AT_5609",
-        "exact" : true,
-        "substring" : false
+        "substring" : true
       }],
       "bannerContent": {
         "imgOrHTML": "html",
