@@ -16,6 +16,12 @@
       
     },
     "promos": [{
+      [{
+      "PASConditions" : [{
+        "AttributeName" : "",
+        "AttributeValue" : "",
+        "substring" : false
+      }],
       "bannerContent": {
         "imgOrHTML": "html",
         "img": {
