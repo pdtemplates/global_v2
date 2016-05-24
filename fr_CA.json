@@ -4,7 +4,7 @@
     "autoFire" : true,
     "textElements": {
       "clicked"             : "Cliqué",
-      "rewardsText"         : "Mes r&eacute;compenses totales",
+      "rewardsText"         : "Mes récompenses totales",
       "rewardsCTA"          : "Voir maintenant",
       "tapButtonText"       : "taper pour appliquer",
       "tapButtonTextApplied": "appliqué à la caisse",
