@@ -3,12 +3,12 @@
     "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
     "textElements": {
-      "clicked"             : "Cliqu&eacute;",
-      "rewardsText"         : "Mes r&eacute;compenses totales",
+      "clicked"             : "Cliqu&#233;",
+      "rewardsText"         : "Mes r&#233;compenses totales",
       "rewardsCTA"          : "Voir maintenant",
       "tapButtonText"       : "taper pour appliquer",
-      "tapButtonTextApplied": "appliqu&eacute; à la caisse",
-      "tapOverlay"          : "Le code sera appliqu&eacute; à la caisse",
+      "tapButtonTextApplied": "appliqu&#233; à la caisse",
+      "tapOverlay"          : "Le code sera appliqu&#233; à la caisse",
       "headerText"          : "",
       "subHeaderText"       : "",
       "openHeaderOffers"    : "mes offres",
@@ -42,7 +42,7 @@
         }
       },
       "tapContent": {
-        "popupTextLink"     : "voir les d&eacute;tails",
+        "popupTextLink"     : "voir les d&#233;tails",
         "redeemMessage"     : "Saisir le code <generic> à la caisse ",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
