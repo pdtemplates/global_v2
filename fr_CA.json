@@ -8,7 +8,7 @@
       "rewardsCTA"          : "Voir maintenant",
       "tapButtonText"       : "taper pour appliquer",
       "tapButtonTextApplied": "appliqu&eacute; à la caisse",
-      "tapOverlay"          : "Le code sera appliqué à la caisse",
+      "tapOverlay"          : "Le code sera appliqu&eacute; à la caisse",
       "headerText"          : "",
       "subHeaderText"       : "",
       "openHeaderOffers"    : "mes offres",
@@ -42,7 +42,7 @@
         }
       },
       "tapContent": {
-        "popupTextLink"     : "voir les détails",
+        "popupTextLink"     : "voir les d&eacute;tails",
         "redeemMessage"     : "Saisir le code <generic> à la caisse ",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
