@@ -17,14 +17,9 @@
     },
     "promos": [{
       "PASConditions" : [{
-        "AttributeName" : "CLUS",
-        "AttributeValue" : "24401",
+        "AttributeName" : "",
+        "AttributeValue" : "",
         "substring" : false
-      },
-      {
-        "AttributeName" : "SPUS",
-        "AttributeValue" : "AT_5609",
-        "substring" : true
       }],
       "bannerContent": {
         "imgOrHTML": "html",
