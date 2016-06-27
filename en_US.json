@@ -1,6 +1,6 @@
 {
   "global": {
-    "brands" : ["ON","BR","GAP","AT","GFOL","BRFS"],
+    "brands" : ["ON","BR","GAP","AT","GFOL","BRFOL"],
     "autoFire" : true,
     "textElements": {
       "clicked"             : "clicked",
