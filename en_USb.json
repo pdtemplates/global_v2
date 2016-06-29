@@ -54,9 +54,9 @@
         "tapContent": {
           "ttaTextOverride": {
             "clicked": "",
-            "tapButtonText": "",
-            "tapButtonTextApplied": "",
-            "tapOverlay": ""
+            "tapButtonText": "tap to apply",
+            "tapButtonTextApplied": "applied at checkout",
+            "tapOverlay": "Code will be applied at bag",
           },
           "displayType": "generic",
           "redeemMessage": "Use code <generic> at checkout",
