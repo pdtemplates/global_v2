@@ -4,11 +4,11 @@
     "autoFire" : true,
     "textElements": {
       "clicked"             : "Cliqu&#233;",
-      "rewardsText"         : "Mes r%C3%A9compenses totales",
+      "rewardsText"         : "Mes r&#233;compenses totales",
       "rewardsCTA"          : "Voir maintenant",
       "tapButtonText"       : "taper pour appliquer",
-      "tapButtonTextApplied": "appliqu&#233; à la caisse",
-      "tapOverlay"          : "Le code sera appliqu&#233; à la caisse",
+      "tapButtonTextApplied": "appliqu&#201; &#192; la caisse",
+      "tapOverlay"          : "Le code sera appliqu&#233; &#224; la caisse",
       "headerText"          : "",
       "subHeaderText"       : "",
       "openHeaderOffers"    : "mes offres",
@@ -42,8 +42,8 @@
         }
       },
       "tapContent": {
-        "popupTextLink"     : "voir les d&#233;tails",
-        "redeemMessage"     : "Saisir le code <generic> à la caisse ",
+        "popupTextLink"     : "voir les d&#201;tails",
+        "redeemMessage"     : "Saisir le code <generic> &#192; la caisse ",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
