@@ -3,7 +3,7 @@
     "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
     "textElements": {
-      "clicked"             : "Cliqu&#233;",
+      "clicked"             : "&#12463;&#12522;&#12483;&#12463;&#12375;&#12383;",
       "rewardsText"         : "Mes r&#233;compenses totales",
       "rewardsCTA"          : "Voir maintenant",
       "tapButtonText"       : "taper pour appliquer",
