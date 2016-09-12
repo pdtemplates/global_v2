@@ -1,0 +1,56 @@
+{
+  "global": {
+    "brands" : ["ON","BR","GAP"],
+    "autoFire" : true,
+    "textElements": {
+      "clicked"             : "Cliqu&#233;",
+      "rewardsText"         : "Mes r&#233;compenses totales",
+      "rewardsCTA"          : "Voir maintenant",
+      "tapButtonText"       : "taper pour appliquer",
+      "tapButtonTextApplied": "appliqu&#201; &#192; la caisse",
+      "tapOverlay"          : "Le code sera appliqu&#233; &#224; la caisse",
+      "headerText"          : "",
+      "subHeaderText"       : "",
+      "openHeaderOffers"    : "mes offres",
+      "openHeaderAvailable" : "disponible"
+      
+    },
+    "promos": [{
+      "PASConditions" : [{
+        "AttributeName" : "",
+        "AttributeValue" : "",
+        "substring" : false
+      }],
+      "bannerContent": {
+        "imgOrHTML": "html",
+        "img": {
+          "contentParameters": {
+            "linkType" : false,
+            "imageMap": ""
+          },
+          "images": {
+            "path": "",
+            "dataUri": ""
+          }
+        },
+        "HTML": {
+          "useLocal": true,
+          "localHTML": "",
+          "backgroundColor": "#FFFFFF",
+          "css": "",
+          "path": ""
+        }
+      },
+      "tapContent": {
+        "popupTextLink"     : "voir les d&#201;tails",
+        "redeemMessage"     : "Saisir le code <generic> &#192; la caisse ",
+        "displayType"       : "generic",
+        "legalOverrideUrl"  : "",
+        "legalOverride"     : "",
+        "useLegalOverride"  : false,
+        "genericCodeId"     : "",
+        "genericCode"       : ""
+      }
+    }]
+  }
+}
