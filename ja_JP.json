@@ -1,14 +1,14 @@
 {
   "global": {
-    "brands" : ["ON","BR","GAP"],
+    "brands" : ["BR","GAP"],
     "autoFire" : true,
     "textElements": {
       "clicked"             : "&#12463;&#12522;&#12483;&#12463;&#12375;&#12383;",
-      "rewardsText"         : "Mes r&#233;compenses totales",
-      "rewardsCTA"          : "Voir maintenant",
+      "rewardsText"         : "&#12522;&#12527;&#12540;&#12489;&#12509;&#12452;&#12531;&#12488;&#27531;&#39640;",
+      "rewardsCTA"          : "&#20170;&#12377;&#12368;&#12415;&#12427;",
       "tapButtonText"       : "&#12479;&#12483;&#12503;&#12375;&#12390;&#21106;&#24341;&#12434;&#36969;&#29992;",
-      "tapButtonTextApplied": "appliqu&#201; &#192; la caisse",
-      "tapOverlay"          : "Le code sera appliqu&#233; &#224; la caisse",
+      "tapButtonTextApplied": "&#31934;&#31639;&#26178;&#12395;&#36969;&#29992;",
+      "tapOverlay"          : "&#12463;&#12540;&#12509;&#12531;&#12399;&#12362;&#36023;&#12356;&#29289;&#12363;&#12372;&#12395;&#20837;&#12428;&#12383;&#26178;&#28857;&#12391;&#36969;&#29992;",
       "headerText"          : "",
       "subHeaderText"       : "",
       "openHeaderOffers"    : "mes offres",
