@@ -43,7 +43,7 @@
       },
       "tapContent": {
         "popupTextLink"     : "VOIR LES D&#201;TAILS",
-        "redeemMessage"     : "SAISIR LE CODE \<generic\> &#192; LA CAISSE ",
+        "redeemMessage"     : "SAISIR LE CODE <generic> &#192; LA CAISSE ",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
