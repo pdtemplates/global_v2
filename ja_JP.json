@@ -43,7 +43,7 @@
       },
       "tapContent": {
         "popupTextLink"     : "&#35443;&#32048;",
-        "redeemMessage"     : "精算時にクーポン {generic} を使用",
+        "redeemMessage"     : "&#31934;&#31639;&#26178;&#12395;&#12463;&#12540;&#12509;&#12531; {generic} &#12434;&#20351;&#29992;",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
