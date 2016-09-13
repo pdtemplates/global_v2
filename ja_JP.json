@@ -11,8 +11,8 @@
       "tapOverlay"          : "&#12463;&#12540;&#12509;&#12531;&#12399;&#12362;&#36023;&#12356;&#29289;&#12363;&#12372;&#12395;&#20837;&#12428;&#12383;&#26178;&#28857;&#12391;&#36969;&#29992;",
       "headerText"          : "",
       "subHeaderText"       : "",
-      "openHeaderOffers"    : "mes offres",
-      "openHeaderAvailable" : "disponible"
+      "openHeaderOffers"    : "&#12510;&#12452;&#12458;&#12501;&#12449;&#12540;",
+      "openHeaderAvailable" : "&#36092;&#20837;&#21487;&#33021;"
       
     },
     "promos": [{
@@ -42,8 +42,8 @@
         }
       },
       "tapContent": {
-        "popupTextLink"     : "voir les d&#201;tails",
-        "redeemMessage"     : "Saisir le code <generic> &#192; la caisse ",
+        "popupTextLink"     : "&#35443;&#32048;",
+        "redeemMessage"     : "精算時にクーポン {generic} を使用",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
