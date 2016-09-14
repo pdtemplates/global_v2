@@ -44,7 +44,7 @@
       "tapContent": {
         "displayType"       : "generic",
         "popupTextLink"     : "DETAILS",
-        "redeemMessage"     : "Use code <generic> at checkout",
+        "redeemMessage"     : "Use code {generic} at checkout",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
         "useLegalOverride"  : false,
