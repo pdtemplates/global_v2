@@ -45,6 +45,9 @@
       "tapContent": {
         "displayType"       : "generic",
         "redeemMessage"     : "Use code {generic} at checkout",
+        "generic"           : "Use code {generic} at checkout",
+        "autoApply"         : "Discount automatically applied at checkout",
+        "noCode"            : "No code required",
         "popupTextLink"     : "DETAILS",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
