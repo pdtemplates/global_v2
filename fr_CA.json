@@ -2,6 +2,7 @@
   "global": {
     "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
+    "tallImages" : false,
     "textElements": {
       "clicked"             : "Cliqu&#233;",
       "rewardsText"         : "Mes r&#233;compenses totales",
