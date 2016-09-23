@@ -15,43 +15,85 @@
       
     },
     "promos": [{
-      "PASConditions" : [{
-        "AttributeName" : "",
-        "AttributeValue" : "",
-        "substring" : false
-      }],
-      "bannerContent": {
-        "imgOrHTML": "html",
-        "img": {
-          "contentParameters": {
-            "linkType" : false,
-            "imageMap": ""
+      "UK" : {
+        "PASConditions" : [{
+          "AttributeName" : "",
+          "AttributeValue" : "",
+          "substring" : false
+        }],
+        "bannerContent": {
+          "imgOrHTML": "html",
+          "img": {
+            "contentParameters": {
+              "linkType" : false,
+              "imageMap": ""
+            },
+            "images": {
+              "path": "",
+              "dataUri": ""
+            }
           },
-          "images": {
-            "path": "",
-            "dataUri": ""
+          "HTML": {
+            "useLocal": true,
+            "localHTML": "",
+            "backgroundColor": "#FFFFFF",
+            "css": "",
+            "path": ""
           }
         },
-        "HTML": {
-          "useLocal": true,
-          "localHTML": "",
-          "backgroundColor": "#FFFFFF",
-          "css": "",
-          "path": ""
+        "tapContent": {
+          "displayType"       : "generic",
+          "popupTextLink"     : "Terms & conditions apply",
+          "redeemMessage"     : "Use code {generic} at checkout",
+          "generic"           : "Use code {generic} at checkout",
+          "autoApply"         : "Discount automatically applied at checkout",
+          "noCode"            : "No code required",
+          "legalOverrideUrl"  : "",
+          "legalOverride"     : "",
+          "useLegalOverride"  : false,
+          "genericCodeId"     : "",
+          "genericCode"       : ""
         }
       },
-      "tapContent": {
-        "displayType"       : "generic",
-        "popupTextLink"     : "Terms & conditions apply",
-        "redeemMessage"     : "Use code {generic} at checkout",
-        "generic"           : "Use code {generic} at checkout",
-        "autoApply"         : "Discount automatically applied at checkout",
-        "noCode"            : "No code required",
-        "legalOverrideUrl"  : "",
-        "legalOverride"     : "",
-        "useLegalOverride"  : false,
-        "genericCodeId"     : "",
-        "genericCode"       : ""
+      "EU" : {
+        "PASConditions" : [{
+          "AttributeName" : "",
+          "AttributeValue" : "",
+          "substring" : false
+        }],
+        "bannerContent": {
+          "imgOrHTML": "html",
+          "img": {
+            "contentParameters": {
+              "linkType" : false,
+              "imageMap": ""
+            },
+            "images": {
+              "path": "",
+              "dataUri": ""
+            }
+          },
+          "HTML": {
+            "useLocal": true,
+            "localHTML": "",
+            "backgroundColor": "#FFFFFF",
+            "css": "",
+            "path": ""
+          }
+        },
+        "tapContent": {
+          "displayType"       : "generic",
+          "popupTextLink"     : "Terms & conditions apply",
+          "redeemMessage"     : "Use code {generic} at checkout",
+          "generic"           : "Use code {generic} at checkout",
+          "autoApply"         : "Discount automatically applied at checkout",
+          "noCode"            : "No code required",
+          "legalOverrideUrl"  : "",
+          "legalOverride"     : "",
+          "useLegalOverride"  : false,
+          "genericCodeId"     : "",
+          "genericCode"       : ""
+        }
       }
     }]
   }
