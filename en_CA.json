@@ -2,6 +2,7 @@
   "global": {
     "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
+    "tallImages" : false,
     "textElements": {
       "clicked"             : "clicked",
       "rewardsText"         : "My Total Rewards",
