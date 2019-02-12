@@ -38,7 +38,7 @@
         "HTML": {
           "useLocal": true,
           "localHTML": "",
-          "backgroundColor": "#FFFFFF",
+          "backgroundColor": "white",
           "css": "",
           "path": ""
         }
